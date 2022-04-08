@@ -1,4 +1,5 @@
 # RandoMarvel
+## PROJETO ANTIGO, PLANEJO REFAZER ASSIM QUE TERMINAR UM BREVE ESTUDO SOBRE REACT
 
 O RandoMarvel foi uma ideia concebida durante um desafio da criação de uma single page alimentada com a API da Marvel.
 
